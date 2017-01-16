@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../CallDir" value="2921971793922" />
+        <entry key="$PROJECT_DIR$/../PokeGOAPI-Java" value="5935959519304" />
+        <entry key="$PROJECT_DIR$/../ailienscommon" value="17807581359780" />
+        <entry key="$PROJECT_DIR$/../ailienscommon/main" value="7408562957177" />
+        <entry key="$PROJECT_DIR$/../bloodmanager" value="1457357891885" />
+        <entry key="$PROJECT_DIR$/../callMonitor" value="2922095945314" />
+        <entry key="$PROJECT_DIR$/../cassandra" value="1473232137962" />
+        <entry key="$PROJECT_DIR$/../cassandra_jhipster" value="2946323358928" />
+        <entry key="$PROJECT_DIR$/../data-populator" value="1455625891320" />
+        <entry key="$PROJECT_DIR$/../elastiGirl" value="2920197644958" />
+        <entry key="$PROJECT_DIR$/../elastigirl" value="13160001948494" />
+        <entry key="$PROJECT_DIR$/../littlejohn_new" value="2964771837588" />
+        <entry key="$PROJECT_DIR$" value="2968657165106" />
+        <entry key="$PROJECT_DIR$/../pricing_1.3" value="2947847848962" />
+        <entry key="$PROJECT_DIR$/../profx" value="1444806824706" />
+        <entry key="$PROJECT_DIR$/../robinhood" value="16113411082880" />
+        <entry key="$PROJECT_DIR$/../robinhood_new" value="14648531630574" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
